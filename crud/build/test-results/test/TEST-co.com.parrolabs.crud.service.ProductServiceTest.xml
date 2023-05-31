@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.parrolabs.crud.service.ProductServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-30T08:10:09" hostname="MacBook-Pro-de-Luis.local" time="0.53">
+  <properties/>
+  <testcase name="testCreateProduct()" classname="co.com.parrolabs.crud.service.ProductServiceTest" time="0.522"/>
+  <testcase name="testGetProductById()" classname="co.com.parrolabs.crud.service.ProductServiceTest" time="0.004"/>
+  <testcase name="testGetAllProducts()" classname="co.com.parrolabs.crud.service.ProductServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
