@@ -23,7 +23,7 @@ Mockito
 Getting Started
 To get started with the project, follow these steps:
 
-##Prerequisites:
+## Prerequisites:
 Make sure you have Java and Maven installed on your system.
 Clone the repository: Use Git to clone this repository to your local machine. link https://github.com/danielrv01/SpringBootCRUD
 Build the project: Open a terminal or command prompt and navigate to the project's root directory. Run the following command to build the project and resolve dependencies:
@@ -37,10 +37,10 @@ This project includes unit tests for services and repositories. To run the unit 
 mvn test
 The tests will be executed, and the test results will be displayed in the console.
 
-##Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out to the next email luisfelipemarincano@gmail.com.
 
-##Acknowledgments
+## Acknowledgments
 Spring Boot
 JUnit
 Mockito
